@@ -225,3 +225,8 @@ Well, I am too lazy to do that, so until I decide to update this guide you can g
 node-fetch is a complete clone of the fetch function that browsers provide but in nodejs
 
 so the browser documentation should be more than enough
+
+
+
+## About
+This is a guide I made for a friend, you are welcome to make changes to it using PRs.
