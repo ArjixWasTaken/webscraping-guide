@@ -1,12 +1,10 @@
 ## Setting up the Environment
 
 1. Open the project folder in VS Code
-
-![image-20210428144555509](https://i.loli.net/2021/04/28/eJs5pk4wrImtFOb.png)
+   ![image-20210428144555509](https://i.loli.net/2021/04/28/eJs5pk4wrImtFOb.png)
 
 2. Open the command prompt ( Ctrl + \` )
-
-![image-20210428145329448](https://i.loli.net/2021/04/28/ujC2bEF6WqgrTSN.png)
+   ![image-20210428145329448](https://i.loli.net/2021/04/28/ujC2bEF6WqgrTSN.png)
 
 3. Install the dependencies that are needed;
 
@@ -19,8 +17,7 @@
    ![image-20210428145522600](https://i.loli.net/2021/04/28/wVAa4LEdcNnJf5p.png)
 
 5. Import the dependencies you just installed.
-
-![image-20210428145635175](https://i.loli.net/2021/04/28/u8AxpGUHgS35fVB.png)
+   ![image-20210428145635175](https://i.loli.net/2021/04/28/u8AxpGUHgS35fVB.png)
 
 
 
