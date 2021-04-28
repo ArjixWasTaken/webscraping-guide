@@ -226,4 +226,4 @@ so the browser documentation should be more than enough
 
 
 ## About
-This is a guide I made for a friend, you are welcome to make changes to it using PRs.
+This is a guide I made for a friend, you are welcome to make changes to it with PRs.
