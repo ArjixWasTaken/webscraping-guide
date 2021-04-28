@@ -4,7 +4,7 @@
 
 ![image-20210428144555509](https://i.loli.net/2021/04/28/eJs5pk4wrImtFOb.png)
 
-2. Open the command prompt (Ctrl + `)
+2. Open the command prompt ( Ctrl + \` )
 
 ![image-20210428145329448](https://i.loli.net/2021/04/28/ujC2bEF6WqgrTSN.png)
 
